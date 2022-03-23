@@ -1,0 +1,19 @@
+{
+    "name": "typescript-complete-dev-guide",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Bryan Clover",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.22",
+        "tslib": "^2.3.1"
+    }
+}
